@@ -28,7 +28,7 @@ function Unity(props) {
                         />
                         <FaEarlybirds
                             size="60px"
-                            className='absolute right-8  text-green-600 '
+                            className='z-0 absolute right-8  text-green-600 '
                         />
                     </div>
 

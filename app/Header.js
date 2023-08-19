@@ -6,7 +6,7 @@ import { SiRubygems } from "react-icons/si"
 import { HiOutlineDotsCircleHorizontal } from "react-icons/hi"
 function Header(props) {
     return (
-        <div className='ml-auto mr-auto w-full p-2 h-14 duo-gold border-b-2 border-b-amber-500 grid grid-cols-4 gap-12'>
+        <div className='z-20 sticky top-0 ml-auto mr-auto w-full p-2 h-14 duo-gold border-b-2 border-b-amber-500 grid grid-cols-4 gap-12'>
             <div className=''>
                 <Image
                     alt='flag'
