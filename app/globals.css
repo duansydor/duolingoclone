@@ -7,6 +7,12 @@
   margin: 0px;
 }
 
+main {}
+
+body {
+  @apply bg-gray-200
+}
+
 .duo-green {
   background-color: #58CC02;
 }
